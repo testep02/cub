@@ -10,6 +10,7 @@ namespace cub
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
